@@ -5,3 +5,11 @@
 body {
     background-color: rgb(249 250 251);
 }
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
